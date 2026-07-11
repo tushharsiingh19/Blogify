@@ -5,6 +5,7 @@ export default function Button({
     type = "button",
     bgColor = "bg-blue-600",
     textColor = "text-white",
+    hover="bg-blue-800",
     className = "",
     ...props
 }) {
